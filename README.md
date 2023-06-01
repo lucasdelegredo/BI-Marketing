@@ -7,7 +7,7 @@ Resultado da participação da primeira semana de Alura Challenge para o desafio
 Utilizado como ferramenta de Análise de Data Visualization o Power Bi
 
 ## Objetivos:
-No desafio precisavamos criar alguns KPI's para essa camapanha de marketing, sendo:
+No desafio precisavamos criar alguns KPI's para essa campanha de marketing, sendo:
 ⦁	CTR (Click Through Rate)
 ⦁	Percentual de Cliques Pagos
 ⦁	Quantidade de novos usuários por dia na plataforma
