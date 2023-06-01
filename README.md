@@ -1,4 +1,4 @@
-# BI-Marketing
+# BUSINESS INTELLIGENCE - CAMPANHA DE MARKETING
 Business Intelligence - Analise Campanha de Marketing
 
 Resultado da participação da primeira semana de Alura Challenge para o desafio de Business Intellingence. O case da semana foi criar uma análise com base em dados de uma Campanha de Marketing. Utilizando a ferramenta Microsoft Power Bi foi possível resolver os problemas propostos.
