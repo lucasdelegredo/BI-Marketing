@@ -8,13 +8,21 @@ Utilizado como ferramenta de Análise de Data Visualization o Power Bi
 
 ## Objetivos:
 No desafio precisavamos criar alguns KPI's para essa campanha de marketing, sendo:
+
 ⦁	CTR (Click Through Rate)
+
 ⦁	Percentual de Cliques Pagos
+
 ⦁	Quantidade de novos usuários por dia na plataforma
+
 ⦁	Quais categorias eram as mais visitadas
+
 ⦁	Percentual de cliques vindos de redes sociais
+
 ⦁	Quantidade de visualizações por artigo publicado
+
 ⦁	Total de Cliques
+
 Explorando tudo que a ferramenta nos tem a oferecer foi possível criar um dashboard com uma página central de visualização desses KPI's com um menu lateral que guia para outras páginas para uma análise mais detalhada dos dados.
 
 ## Dashboard
